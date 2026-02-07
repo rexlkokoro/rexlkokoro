@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👾 Rexl Kokoro
-**BTech CSE · Cyberpunk Builder · Signal in the Noise**
+# Rexl Kokoro
+**BTech CSE · Cyberpunk Builder**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=7CF6FF&center=true&vCenter=true&width=720&lines=Building+secure+systems+%26+clever+gadgets;Hacking+signal+into+meaning;Crafting+offline+intelligence+for+humans" alt="Typing banner" />
 
@@ -12,7 +12,7 @@
 ## 🛰️ About Me
 - I’m Manas Kumar Singh, a Computer Science and Engineering student driven by curiosity and creativity.
 - I build intuitive web experiences, explore AI reasoning systems, and tinker with experimental projects just because it’s possible.
-- I blend technical depth with personality—projects that work, adapt, and feel alive.
+- I blend technical depth with personality projects that work, adapt, and feel alive.
 
 ---
 
@@ -96,7 +96,7 @@
 
 ## 🚀 Featured Projects
 - **Aud-AqiSense** — Low-cost real-time air quality & environmental monitoring · Arduino Uno + C++.
-- **dedsec-portfolio** — Hacker-themed React + Vite + Tailwind + Framer Motion portfolio with glitch visuals.
+- **dedsec-portfolio** — Deadsec-themed React + Vite + Tailwind + Framer Motion portfolio with glitch visuals.
 - **laptopstore** — TypeScript e-commerce demo with clean product listings and interactions.
 - **classtrackerapp** — Flutter classroom attendance & contact manager for Android / iOS / Windows.
 - **Joystick-SBU** — Flutter Bluetooth controller (HC-05/HC-06) for Arduino car; built for SBU robotics lab.
@@ -107,15 +107,10 @@
 ## 📊 GitHub Intelligence
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rexlkokoro&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7CF6FF&icon_color=7CF6FF" alt="Rexl's GitHub stats" />
-</a>
+
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img height="150" src="https://streak-stats.demolab.com?user=rexlkokoro&theme=radical&hide_border=true&background=0d1117&ring=7CF6FF&fire=FF6B6B&currStreakLabel=7CF6FF" alt="Rexl's Streak" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexlkokoro&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7CF6FF" alt="Top Languages" />
-</a>
+
 
 </div>
 
@@ -125,20 +120,20 @@
 - Offline-friendly AI tooling (NLP/RAG on edge devices)
 - Systems + embedded security; firmware-first thinking
 - Shipping small, purposeful open-source utilities
-
+- Nitnack projects with embeded systems
 ---
 
 ## 🌐 Connect
 - GitHub: [@RexlKokoro](https://github.com/RexlKokoro)
-- LinkedIn: *coming soon*
-- Email: *coming soon*
+- LinkedIn: [@Manas Kumar Singh](https://www.linkedin.com/in/manas-kumar-singh-03b0b4367/)
+- Email: manaskumarsingh2005{@}gmail[dot]com
 
 ---
 
 <div align="center">
 
 ```
-$ echo "Stay sharp. The network is listening."
+$ echo "Stay sharp choom. The network is listening."
 ```
 
 </div>
