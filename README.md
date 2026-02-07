@@ -10,9 +10,9 @@
 ---
 
 ## 🛰️ About Me
-- BTech Computer Science Engineering student tuned to the neon grid.
-- Interests: cybersecurity · embedded systems · AI & offline intelligence · DIY electronics · open-source tools.
-- Tone: confident, curious, builder—keeps things minimal, keeps things sharp.
+- I’m Manas Kumar Singh, a Computer Science and Engineering student driven by curiosity and creativity.
+- I build intuitive web experiences, explore AI reasoning systems, and tinker with experimental projects just because it’s possible.
+- I blend technical depth with personality—projects that work, adapt, and feel alive.
 
 ---
 
@@ -108,20 +108,20 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RexlKokoro&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7CF6FF&icon_color=7CF6FF" alt="Rexl's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rexlkokoro&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7CF6FF&icon_color=7CF6FF" alt="Rexl's GitHub stats" />
 </a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="150" src="https://streak-stats.demolab.com?user=RexlKokoro&theme=radical&hide_border=true&background=0d1117&ring=7CF6FF&fire=FF6B6B&currStreakLabel=7CF6FF" alt="Rexl's Streak" />
+  <img height="150" src="https://streak-stats.demolab.com?user=rexlkokoro&theme=radical&hide_border=true&background=0d1117&ring=7CF6FF&fire=FF6B6B&currStreakLabel=7CF6FF" alt="Rexl's Streak" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RexlKokoro&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7CF6FF" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexlkokoro&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7CF6FF" alt="Top Languages" />
 </a>
 
 </div>
 
 ---
 
-## � Current Focus
+## 🔭 Current Focus
 - Offline-friendly AI tooling (NLP/RAG on edge devices)
 - Systems + embedded security; firmware-first thinking
 - Shipping small, purposeful open-source utilities
