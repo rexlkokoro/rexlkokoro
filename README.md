@@ -52,6 +52,7 @@
       <img alt="SQL" src="https://img.shields.io/badge/SQL-0B132B?style=for-the-badge&logo=postgresql&logoColor=7CF6FF" />
       <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0B132B?style=for-the-badge&logo=sqlite&logoColor=34D399" />
       <img alt="DBMS" src="https://img.shields.io/badge/DBMS-0B132B?style=for-the-badge&logo=databricks&logoColor=F472B6" />
+      <img alt="Regex" src="https://img.shields.io/badge/Regex-0F172A?style=for-the-badge&logo=regex&logoColor=7CF6FF" />
     </td>
   </tr>
   <tr>
@@ -74,7 +75,7 @@
     <td align="center"><b>Design & Tools</b></td>
     <td align="center">
       <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0F172A?style=for-the-badge&logo=autodesk&logoColor=F87171" />
-      <img alt="Regex" src="https://img.shields.io/badge/Regex-0F172A?style=for-the-badge&logo=regex&logoColor=7CF6FF" />
+      
       <img alt="Git" src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F472B6" />
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E5E7EB" />
     </td>
