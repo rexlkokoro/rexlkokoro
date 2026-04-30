@@ -75,7 +75,6 @@
     <td align="center"><b>Design & Tools</b></td>
     <td align="center">
       <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0F172A?style=for-the-badge&logo=autodesk&logoColor=F87171" />
-      
       <img alt="Git" src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F472B6" />
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E5E7EB" />
     </td>
