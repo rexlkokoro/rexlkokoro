@@ -125,7 +125,7 @@
 
 ## 🌐 Connect
 - GitHub: [@RexlKokoro](https://github.com/RexlKokoro)
-- LinkedIn: [@Manas Kumar Singh](https://www.linkedin.com/in/manas-kumar-singh-03b0b4367/)
+- LinkedIn: [@Manas Kumar Singh](https://www.linkedin.com/in/manas-k-s-03b0b4367/)
 - Email: manaskumarsingh2005{@}gmail[dot]com
 
 ---
